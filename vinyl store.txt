@@ -1,0 +1,8 @@
+<store> ::= <year> | <year> <store>
+<year> ::= "Year" <number> <genres>
+<genres> ::= <genre> | <genre> <genres>
+<genre> ::= "Genre" <string> <singers>
+<singers> ::= <singer> | <singer> <singers>
+<singer> ::= "Singer" <string> <vinyls>
+<vinyls> ::= <vinyl> | <vinyl> <vinyls>
+<vinyl> ::= "Vinyl" <string>
