@@ -1,0 +1,15 @@
+store
+1969
+1969 Rock
+1969 Rock The_Beatles
+1969 Rock The_Beatles Abbey_Road
+store
+1954
+1954 Indie
+1954 Rock Flower_Flower_Flower
+1954 Rock Flower_Flower_Flower Album_Name
+store
+2024
+2024 Alternative
+2024 Alternative Pink_Green_Blue
+2024 Alternative Pink_Green_Blue Album_Album_album

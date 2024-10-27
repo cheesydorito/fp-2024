@@ -5,4 +5,4 @@ module Lib1
 -- | This function returns a list of words
 -- to be autocompleted in your program's repl.
 completions :: [String]
-completions = ["store", "year", "genres", "genre", "singers", "singer", "vinyls", "vinyl"]
+completions = ["Store", "Year", "Genres", "Genre", "Singers", "Singer", "Vinyls", "Vinyl"]
